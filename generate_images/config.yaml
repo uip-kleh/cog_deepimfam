@@ -1,0 +1,13 @@
+# PATH CONFIGURATION
+image_method: mizuta_2D
+amino_data_path: /home/mizuno/data/amino_data/
+dataset: GPCR
+aaindex1_path: /home/mizuno/workplace/ensemble_deepimfam/common/aaindex1.json
+aaindex1_entry_path: /home/mizuno/workplace/ensemble_deepimfam/common/aaindex1_entry.txt
+results_path: /media/ssd
+model_method: simple_ensemble
+
+IMAGE_SIZE: 128
+NUM_DATA: 7938
+NUM_CLASS: 5
+BATCH_SIZE: 256

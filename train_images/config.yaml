@@ -1,0 +1,12 @@
+image_method: mizuta_2D
+amino_data_path: /home/mizuno/data/amino_data/
+dataset: COG-100-2892
+aaindex1_path: /home/mizuno/workplace/ensemble_deepimfam/common/aaindex1.json
+aaindex1_entry_path: /home/mizuno/workplace/ensemble_deepimfam/common/aaindex1_entry.txt
+results_path: /media/ssd
+model_method: simple_ensemble_30CLASS
+
+IMAGE_SIZE: 128
+NUM_DATA: 1565976
+NUM_CLASS: 2892
+BATCH_SIZE: 1024
